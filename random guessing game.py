@@ -1,5 +1,5 @@
 """
-Programmer:Loren
+Programmer:Eric
 Date:12/7/2018
 Purpose:To simulate a random word guessing game where the computer generates a
 random scrambled word and the user tries to guess what it is
